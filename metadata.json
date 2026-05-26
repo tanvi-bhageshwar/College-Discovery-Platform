@@ -1,0 +1,6 @@
+{
+  "name": "College Explorer",
+  "description": "Browse, search, filter, and compare top colleges side-by-side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
